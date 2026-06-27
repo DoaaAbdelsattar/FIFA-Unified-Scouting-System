@@ -57,7 +57,6 @@ FIFA-Unified-Scouting-System/
 │   ├── correlation_heatmap.png
 │   ├── ridge_best_alpha.png
 │   ├── lasso_best_alpha.png
-│   └── model_comparison.png
 │
 ├── requirements.txt
 ├── LICENSE
