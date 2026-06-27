@@ -199,7 +199,7 @@ A unified preprocessing pipeline ensures consistent inference for both predictio
 
 Relationship between player features before modeling.
 
-![Correlation Heatmap](images/correlation_Heat%20map.png)
+![Correlation Heatmap](images/correlation_Heatmap.png)
 
 ---
 
