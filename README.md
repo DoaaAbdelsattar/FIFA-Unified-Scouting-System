@@ -200,7 +200,7 @@ A unified preprocessing pipeline ensures consistent inference for both predictio
 
 Relationship between player features before modeling.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_Heat%20map.png)
 
 ---
 
@@ -210,7 +210,7 @@ The optimal Ridge regularization parameter was selected by minimizing Test RMSE.
 
 **Best Alpha = 0.001**
 
-![Ridge Regression](images/ridge_best_alpha.png)
+![Ridge Regression](images/Best%20Alpha%20(Ridge).png)
 
 ---
 
@@ -218,16 +218,7 @@ The optimal Ridge regularization parameter was selected by minimizing Test RMSE.
 
 The optimal Lasso alpha was also found at **0.001**, although stronger regularization degraded performance more rapidly.
 
-![Lasso Regression](images/lasso_best_alpha.png)
-
----
-
-## 📊 Model Performance Comparison
-
-Comparison between classification, regression, optimization, and ensemble models.
-
-![Model Comparison](images/model_comparison.png)
-
+![Lasso Regression](images/Best%20Alpha%20(Lassso).png)
 ---
 
 # 🏆 Key Findings
