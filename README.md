@@ -50,8 +50,7 @@ The project follows the complete Machine Learning pipeline from data preprocessi
 FIFA-Unified-Scouting-System/
 │
 ├── FIFA_Player_Value_and_Performance_Prediction.ipynb
-├── fifa_train.csv
-├── fifa_test.csv
+├── fifa.csv
 ├── README.md
 │
 ├── images/
