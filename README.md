@@ -262,6 +262,3 @@ jupyter notebook FIFA_Player_Value_and_Performance_Prediction.ipynb
 GitHub:
 https://github.com/DoaaAbdelsattar
 
----
-
-⭐ If you found this project useful, consider giving it a star.
